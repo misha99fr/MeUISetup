@@ -5,31 +5,11 @@
     	{name = "Stable",
     		filelist="https://raw.githubusercontent.com/HeroBrine1st/TabletOS/Stable-(meta)/filelist.lua",
     		script="https://raw.githubusercontent.com/HeroBrine1st/TabletOS/Stable-(meta)/installerScript.lua",
-				scriptVersion = "1.01",
+				scriptVersion = "1.0",
     		description={
     			eu_RU="Стабильный канал обновлений. Подходит для обычных пользователей.",
     			eu_EN="Stable update channel. Suitable for general users.",
     		}
     	},
-    	{name = "Experimental",
-    		filelist="https://raw.githubusercontent.com/HeroBrine1st/TabletOS/Experimental-(meta)/filelist.lua",
-    		description={
-    			eu_RU="Канал обновлений раннего доступа.",
-    			eu_EN="Early Access Update Channel.",
-    		},
-        script = "https://raw.githubusercontent.com/HeroBrine1st/TabletOS/Experimental-(meta)/installerScript.lua",
-        scriptVersion = "1.01",
-    	},
-    }
-  },
-  {name = "CryptedNote",
-    description = {eu_RU="Утилита шифрования файлов с использованием сети Фейстеля",
-      eu_EN="File Encryption Utility with the Feistel Network",},
-    raw="https://raw.githubusercontent.com/HeroBrine1st/CryptedNote/master/VERSIONS.txt"},
-    {name="[LIBRARY] RSA",
-    description = {eu_RU="Библиотека RSA",eu_EN="RSA Library"},
-    filelist="https://raw.githubusercontent.com/HeroBrine1st/RSA/master/filelist.lua",
-    },
-  {name="Lukyt JVM (by zenith391)", description={eu_RU="JVM 1.5", eu_EN="JVM 1.5"},
-   filelist="https://raw.githubusercontent.com/HeroBrine1st/lukyt/master/files.lua",}
+    
 }
