@@ -1,6 +1,6 @@
 {
-  {name = "TabletOS",
-    description = {eu_RU="ОС для планшетов.",eu_EN="OS for tabletpads"},
+  {name = "MeUI",
+    description = {eu_RU="Пародия на Miui. ОС для планшетов.",eu_EN="Miui Parody.OS for tabletpads"},
     channels={
     	{name = "Stable",
     		filelist="https://raw.githubusercontent.com/HeroBrine1st/TabletOS/Stable-(meta)/filelist.lua",
