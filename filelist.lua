@@ -27,6 +27,9 @@
 	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Guide/LowMemory.lua",path="/TabletOS/Guide/LowMemory.lua"},
 	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Guide/Start.lua",path="/TabletOS/Guide/Start.lua"},
 	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Guide/UpdateReceived.lua",path="/TabletOS/Guide/UpdateReceived.lua"},
+	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Apps/Settings.pkg/Modules/MiAccount.lua",path="/TabletOS/Apps/Settings.pkg/Modules/MiAccount.lua"},
+	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Apps/Settings.pkg/Modules/Bootloader.lua",path="/TabletOS/Apps/Settings.pkg/Modules/Bootloader.lua"},
+	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Apps/Settings.pkg/Modules/About.lua",path="/TabletOS/Apps/Settings.pkg/Modules/About.lua"},
 	{
         url = "https://raw.githubusercontent.com/IgorTimofeev/AdvancedLua/master/AdvancedLua.lua",
         path = "/lib/advancedLua.lua"
