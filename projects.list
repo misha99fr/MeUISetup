@@ -4,7 +4,7 @@
     channels={
     	{name = "Stable",
     		filelist="https://raw.githubusercontent.com/HeroBrine1st/TabletOS/Stable-(meta)/filelist.lua",
-    		script="https://raw.githubusercontent.com/HeroBrine1st/TabletOS/Stable-(meta)/installerScript.lua",
+    		script="https://github.com/misha99fr/MeUISetup/raw/refs/heads/master/installerScript.lua",
 				scriptVersion = "1.0",
     		description={
     			eu_RU="Стабильный канал обновлений. Подходит для обычных пользователей.",
