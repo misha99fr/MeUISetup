@@ -3,7 +3,7 @@
     description = {eu_RU="Пародия на Miui. ОС для планшетов.",eu_EN="Miui Parody.OS for tabletpads"},
     channels={
     	{name = "Stable",
-    		filelist="https://raw.githubusercontent.com/HeroBrine1st/TabletOS/Stable-(meta)/filelist.lua",
+    		filelist="https://github.com/misha99fr/MeUISetup/raw/refs/heads/master/filelist.lua",
     		script="https://github.com/misha99fr/MeUISetup/raw/refs/heads/master/installerScript.lua",
 				scriptVersion = "1.0",
     		description={
