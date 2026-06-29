@@ -9,7 +9,7 @@ local internet = component.internet
 local gpu = component.gpu
 local w,h = gpu.getResolution()
 local options = {
-    projectsListUrl = "https://raw.githubusercontent.com/HeroBrine1st/UniversalInstaller/master/projects.list",
+    projectsListUrl = "https://raw.githubusercontent.com/misha99fr/MeUISetup/master/projects.list",
     circleBarSymbols = {"\\","|","/","—"}
 }
 
