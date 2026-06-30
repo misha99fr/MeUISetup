@@ -40,7 +40,7 @@
 	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Apps/Settings.pkg/Modules/About.lua",path="/TabletOS/Apps/Settings.pkg/Modules/About.lua"},
 	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Apps/Notes.pkg/Main.lua",path="/TabletOS/Apps/Notes.pkg/Main.lua"},
 	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Apps/AeDA.pkg/Main.lua",path="/TabletOS/Apps/AeDA.pkg/Main.lua"},
-	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Menu/%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8.lnk",path="/TabletOS/Menu/Заметки.lnk"},
+	{url="https://raw.githubusercontent.com/misha99fr/MeUI/Stable/TabletOS/Menu/Notes.lnk",path="/TabletOS/Menu/Notes.lnk"},
 	{
         url = "https://raw.githubusercontent.com/IgorTimofeev/AdvancedLua/master/AdvancedLua.lua",
         path = "/lib/advancedLua.lua"
